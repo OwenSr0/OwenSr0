@@ -7,21 +7,9 @@
 
 - 🌱 I’m currently learning **MYSQL**
 
-- 👯 I’m looking to collaborate on [Google](google.com/)
-
-- 🤝 I’m looking for help with [Owen's Blog](owensr0.github.io/Blog/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/OwenSr0](https://github.com/OwenSr0)
 
-- 📝 I regularly write articles on [owensr0.github.io/Blog/](owensr0.github.io/Blog/)
-
-- 💬 Ask me about **JavaScript**
-
 - 📫 How to reach me **owen.i.sanchez.r@gmail.com**
-
-- 📄 Know about my experiences [owensr0.github.io/Blog/](owensr0.github.io/Blog/)
-
-- ⚡ Fun fact **I like the Ants :d**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
