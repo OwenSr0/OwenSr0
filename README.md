@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Owen's Blog](owensr0.github.io/Blog/)
 
-- 🌱 I’m currently learning **MYSQL**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OwenSr0](https://github.com/OwenSr0)
 
