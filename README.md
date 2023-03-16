@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OwenSr0](https://github.com/OwenSr0)
 
-- 📫 How to reach me **owen.i.sanchez.r@gmail.com**
+- 📫 How to reach me **owen_sanchez@comparo.land**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
